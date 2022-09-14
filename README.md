@@ -1,2 +1,2 @@
-# Apeperia-dev
-Projeto do curso Alura
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
